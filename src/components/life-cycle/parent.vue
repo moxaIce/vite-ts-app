@@ -1,4 +1,6 @@
-<template></template>
+<template>
+    <life-cycle-child></life-cycle-child>
+</template>
 
 <script lang="ts">
 import LifeCycleChild from "./child.vue";
@@ -55,9 +57,7 @@ export default {
       debugger;
     });
 
-    return {
-        
-    }
+    return;
   },
 };
 </script>

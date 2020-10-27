@@ -1,4 +1,6 @@
-<template></template>
+<template>
+<div>child ren</div>
+</template>
 
 <script lang="ts">
 import {
